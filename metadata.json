@@ -1,0 +1,6 @@
+{
+  "name": "SentinelCore 3D Cyber Command",
+  "description": "Interactive 3D cybersecurity command center featuring a live log analyzer, vulnerability dashboard, 3D network topology monitor, phishing simulator, and documented system architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
